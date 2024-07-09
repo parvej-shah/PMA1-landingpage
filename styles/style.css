@@ -27,7 +27,7 @@
 
 /* hero styles */
 header{
-    background-image: url(./assets/Hero-bg.png);
+    background-image: url(/assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
