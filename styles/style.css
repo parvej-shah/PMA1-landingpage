@@ -72,7 +72,7 @@ header{
 }
 
 /* why dev section */
-/* .development{
+.development{
     margin: 50px 150px;
     padding: 80px 100px;
     background-color: rgba(13, 19, 33, 2%);
@@ -118,4 +118,4 @@ header{
 .dev-sec-img{
     width: 240px;
     height: 240px;
-} */
+}
