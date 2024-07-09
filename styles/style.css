@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Shared styles */
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+.text-center{
+    text-align: center;
+}
+
+.primary-info{
+    font-size: 16px;
+    line-height: 26px;
+    color: #0D1321;
+    margin-bottom: 30px;
+    opacity: 70%;
+}
+.margin-right{
+    margin-right: 100px;
+}
+
+
+/* hero styles */
+header{
+    background-image: url(/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 652px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero{
+    width: 988px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hero p{
+    max-width: 880px;
+}
+.hero-image{
+    height: 240px;
+    width: 240px;
+    margin-bottom: 20px;
+}
+.hero-title{
+    font-size: 48px;
+    line-height: 68px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: #0D1321;
+}
+
+.hero-button{
+    padding: 21px 24px;
+    background-color: #0D1321;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 45px;
+}
+
+/* why dev section */
+/* .development{
+    margin: 50px 150px;
+    padding: 80px 100px;
+    background-color: rgba(13, 19, 33, 2%);
+    border-radius: 10px;
+}
+.section-title{
+    font-size: 32px;
+    color: #0D1321;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.reason-card-title{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    color: #0D1321;
+    opacity: 70%;
+    margin-bottom: 16px;
+}
+.reason-card{
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to right, white, #fafafb);
+    padding: 48px;
+    margin-bottom: 32px;
+    border-radius: 16px;
+}
+.reason-cards>:nth-child(2){
+    background: linear-gradient(to right,#fafafb, white);
+}
+.dev-button{
+    padding: 12px 20px;
+    border: 1px solid #0D1321;
+    color: #0D1321;
+    font-weight: 600;
+    opacity: 70%;
+    cursor: pointer;
+}
+.reason-card-content{
+    width: 477px;
+}
+.dev-sec-img{
+    width: 240px;
+    height: 240px;
+} */
