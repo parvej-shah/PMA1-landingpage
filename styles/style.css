@@ -225,7 +225,7 @@ input[type="text"]{
     font-weight: 600;
     color: #0D1321;
 }
-footer{
+.footer-content{
     display: flex;
     justify-content: space-between;
     align-items: center;
