@@ -220,10 +220,10 @@ input[type="text"]{
     margin-left: 10px;
 }
 /* footer */
-footer .section-title{
+.footer-title{
     font-size: 20px;
     font-weight: 600;
-    margin-bottom: 0;
+    color: #0D1321;
 }
 footer{
     display: flex;
